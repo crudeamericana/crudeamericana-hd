@@ -1,5 +1,5 @@
 {
- "_note": "Every film still in crudeamericana/crudeamericana-hd for the infinite tldraw canvas. Fetch any file via jsDelivr at https://cdn.jsdelivr.net/gh/crudeamericana/crudeamericana-hd@main/<path> (replace <path> with the file's path below). stills/ holds the 1020 pushed stills; hd/ holds the earlier gallery originals. No duplicates: stills were content-deduped by sha256 before push.",
+ "_note": "Every film still in crudeamericana/crudeamericana-hd for the infinite tldraw canvas. Fetch any file via jsDelivr at https://cdn.jsdelivr.net/gh/crudeamericana/crudeamericana-hd@main/<path> (replace <path> with the file's path below). stills/ holds the 1020 pushed stills; hd/ holds the earlier gallery originals. No duplicates: stills were content-deduped by sha256 before push. Note: the repo is over jsDelivr's 50 MB package-listing limit, so if a file ever 403s under @main, the same file also serves pinned at https://cdn.jsdelivr.net/gh/crudeamericana/crudeamericana-hd@1375ce56d7ca7cf7772a4583c0f4a359d9e54e6e/<path>.",
  "counts": {
   "total": 1270,
   "stills": 1020,
