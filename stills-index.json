@@ -11092,6 +11092,76 @@
       "width": 3840,
       "height": 2160,
       "sha256": "41ee95a4e04eceffe2b62ab86b0f4a69c70d4acdca3ffc4e9cd97c468f6059af"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-01-BUILD.png",
+      "size": 802877,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "811da655e901c0b92e1ae6b7c9d9f676f1c9123f887aacb720b59e2c10a64908"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-02-WINDUP.png",
+      "size": 1040474,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "fb731feb4c04d93f39e57454ba02540b9ea74a6fada95f6d3cb3e7847ec3e9ff"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-03-LEAP.png",
+      "size": 1293845,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "38af17397222fc88cb34eb93ff75b3f09ab2fbf24387a71782e6cc1b18cfa524"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-04-LOUD-BUILD.png",
+      "size": 1725081,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "8be411778dce228abb64e6bdda0a603ea450b457147f16e43d29cae205dc0f42"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-05-TENSION.png",
+      "size": 1135001,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f14224c439f4b18d6246c6727d45ce0047966dc42bd57de0c2299f0fddb2cd5b"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-06-DROP.png",
+      "size": 1755316,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "f63741df361a74700846cec0d63115724ad8c409bd78b3ba28ecc4ca449c1a16"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-07-KICKS-STOP.png",
+      "size": 776229,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "6f427aca59db5f1de6bc0b6344b99d4325ec92a637d1b19d3ca5d3475109a465"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-08-QUIET.png",
+      "size": 887310,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "1a85c1f80b11ca5f7e9930d73d224b16010535e02a9204ace4a2b87a76563732"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-09-HALFTIME.png",
+      "size": 738577,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "28b21fb9919f45e7321f393780baef2e47c3d257ed0433c3bca8576444ac6508"
+    },
+    {
+      "path": "stills/eightball-vip-phase-stills/EIGHTBALL-VIP-PHASE-10-TRICKLE.png",
+      "size": 707457,
+      "width": 3840,
+      "height": 2160,
+      "sha256": "c5d28f88d15c5ccf5e5c3d79f928d9555e77ba797da8baad889990c321597218"
     }
   ]
 }
