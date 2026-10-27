@@ -11302,6 +11302,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "9cbb6d850c95543df531e702aaecc59b22d7091b4a8a7706e25abfcb5a850ae3"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-01-NEGATIVE-SPACE.png",
+      "size": 608812,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6d22cc4d529028519dcf11a988ab64d482e015050516ff007915132a98864f14"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-02-ISO-SKYLINE.png",
+      "size": 324967,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6774dcf86ed16de3a70a9a08429d7faffbc12cda78cbd71a378803c5567e1312"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-03-WINDOW-TUNNEL.png",
+      "size": 342332,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "82ef05d2a1b19e2d7b2f68fe7259efef1ffe9e8fd6a494f4e66e3bbb2f6bb839"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-04-MOSAIC-HERO.png",
+      "size": 235821,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d137d75df8f983162d390dea583bffe352f875e11bed0756f22db07e4e65a070"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-05-POINT-HERO.png",
+      "size": 508931,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4088e461d40a8ed3ada5670eb5f93a0635adcb5aac8ea3c4ff6cb0f0841a61d9"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-06-DOORWAY-HERO.png",
+      "size": 330525,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d39f638f3e962d717c26f66ff4961f7c7176b54f521cffada99658fece0918b0"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-07-CHECKER-HERO.png",
+      "size": 350603,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "106a0f914a6f7160d3d8e1d3282c97ff1dff8b9831b5660f43a1ed167df6a232"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-08-REFLECTED-HERO.png",
+      "size": 260117,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "dadb17ebe4a208e21d6d6958c2f4a033c580c4d726c5b3bea56596c2995d0676"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-09-REASSEMBLY.png",
+      "size": 400672,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "43b49cc2f1edf8ab168a5e056f52a75d58ff8910b2fdbe8fe37a5deaf346eb01"
+    },
+    {
+      "path": "stills/eightball-vip-experimental-stills/EIGHTBALL-VIP-X-10-APOTHEOSIS-RAIN.png",
+      "size": 466191,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "79049bc40e5f973db1896bff762b9a957dfdbb5e32e040b4c7a92ac36ad3b4b7"
     }
   ]
 }
