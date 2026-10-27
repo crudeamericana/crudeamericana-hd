@@ -11162,6 +11162,146 @@
       "width": 3840,
       "height": 2160,
       "sha256": "c5d28f88d15c5ccf5e5c3d79f928d9555e77ba797da8baad889990c321597218"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-01A-BUILD.png",
+      "size": 342219,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "152542a5373c6d4203f46fc31c17dc648d649ae994e300e89fcf1ca2607ff853"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-01B-BUILD.png",
+      "size": 474176,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a8fd0537373f56f6b5d9d4518098a1f4e250e2ba11ec6cd059213ce9e5e88bbb"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-02A-WINDUP.png",
+      "size": 361792,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3b4c39a2edb6fb57cc8d580263c90a5cdea82ef6e388856a271f43b1acedc083"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-02B-WINDUP.png",
+      "size": 433592,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "27edee352c994a18ddcdfe9081cac20d4cdd7154049f0e891c97ce6368d0e373"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-03A-LEAP.png",
+      "size": 577665,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "df890fb5b0ddfad5813b960b9f7738aeeb641891e3b5a609eab75010e45c5f53"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-03B-LEAP.png",
+      "size": 326846,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "aba9d0b3d498ab439f3447e0b81a4211a3ed6141c8cf621d83d0cf73fa7d99d2"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-04A-LOUD-BUILD.png",
+      "size": 376288,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "72c36d117a7e714c978eda227f2578af0ee763557c65255425b03822a52df265"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-04B-LOUD-BUILD.png",
+      "size": 432609,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0a71e73d784e0fed381a5a7ebb89a538d14982b3550a9af6f9920b75e6ffbfd5"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-05A-TENSION.png",
+      "size": 479567,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9b2d89d5f77d1e5a073744d2cb669685110a4afc68253f025d3e8f6cfa4ef8c7"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-05B-TENSION.png",
+      "size": 412581,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b4661522de3ba9b62398b20a864e23fbe823b89e3cebe4602674590353c4b9a1"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-06A-DROP.png",
+      "size": 386347,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0edbef662840f63d85d624334964683a83cd8dcbe85fa14a56e9451e80f31b56"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-06B-DROP.png",
+      "size": 429402,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "35177ed7b3f46d39f2144eb74ab9e2f0de0134d3855cf0783f4c8b32c9c43467"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-07A-KICKS-STOP.png",
+      "size": 384073,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "00340476a6a8eae1ccc9cf2648059e3a898d485a1a41b8df43dc1d309df489c9"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-07B-KICKS-STOP.png",
+      "size": 382841,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "14d239b314d723e1a9aeb7b9f6995930702c35c9f1165e7c88c632700611672c"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-08A-QUIET.png",
+      "size": 467959,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "111efa2242174a190abb513a4fea66cc21a1ee115e8811f266815613e9ada4d9"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-08B-QUIET.png",
+      "size": 318077,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9aa371f0d1d106b8f81895077f1c01fcf7de9bbcf62496297db734b15a69cc61"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-09A-HALFTIME.png",
+      "size": 377010,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5582f2045fb3e6cbbc61b5380a43edd7163a717975519fd2558d992452854c57"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-09B-HALFTIME.png",
+      "size": 329904,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a276b634eddef6d2cd81340a1e657aa4b1e8352c92164b0999e432347463aa5c"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-10A-TRICKLE.png",
+      "size": 267884,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "da289ab07533fbc4a10a43ba3f213ef538f472e392bd77cb4a8280fb0bde76bc"
+    },
+    {
+      "path": "stills/eightball-vip-variety-stills/EIGHTBALL-VIP-V2-10B-TRICKLE.png",
+      "size": 280851,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9cbb6d850c95543df531e702aaecc59b22d7091b4a8a7706e25abfcb5a850ae3"
     }
   ]
 }
