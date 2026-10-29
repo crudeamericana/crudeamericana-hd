@@ -11554,6 +11554,20 @@
       "width": 1920,
       "height": 1080,
       "sha256": "b098cc5151d71887baa87fd98d3aa8025e677acc53264655a06ccdf12f33b76a"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-07-APOTHEOSIS.png",
+      "size": 547062,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "891285ec41c6f0758376c5db3153264ba43bd542fcd6cb81605a0d2459cf6508"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-08-FULL-DROP.png",
+      "size": 571890,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b21c95a3e7c6f8362c587e07d936076feef1ef505a0c9911d05b455a6c02e0ba"
     }
   ]
 }
