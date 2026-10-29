@@ -11617,6 +11617,62 @@
       "width": 1920,
       "height": 1080,
       "sha256": "69603c7e8815d8807fcc8d304ea5bc620666d695b873fa100abfe4b044f2b1be"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-01-THORN-TRACE.png",
+      "size": 24200,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c6d0d03c5d6520c414d08df460ea03a3390030cab61f7d6a6b697a691b9444cb"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-02-DENSE-HISTORY-FIELD.png",
+      "size": 22416,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "560e2fe2d3b9c04919d23d8f090fb61d01f067bf18438fc4159d9d6eabe3ee8d"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-03-APOCALYPSE-PANORAMA.png",
+      "size": 20217,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e6c0064ae54b3329bfef68919535a7c77e709ec9f939ca52386fd778db9b838c"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-04-CHIAROSCURO-EXECUTION.png",
+      "size": 16009,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3ef3332573ec9cc2228cc67193e8cfd82979683de2d060663341b20a1baddd54"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-05-GOLDEN-HELMET.png",
+      "size": 13247,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b171c859a6d8101c8b14668aafaf3340ac42610f4d5e4d402926460d4a2d9983"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-06-STILL-LIFE-OF-TOOLS.png",
+      "size": 13313,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "38ab26b70583e78cd5007dfa370d710c73f379c2877979935a70c959f857d67c"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-07-THE-LONE-JESTER.png",
+      "size": 14123,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cf995d7467a2eb0c5eca3ad67001b2523a9a2126e1453edefa5609eb65547892"
+    },
+    {
+      "path": "stills/intake2-stills-2026-10-29/INTAKE2-08-LIGHT-VORTEX.png",
+      "size": 24237,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "817223b64f367160ff40f0e533326f1219256cc5bb9ab84dd3a62e0b1e1866fa"
     }
   ]
 }
