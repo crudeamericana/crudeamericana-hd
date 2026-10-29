@@ -11673,6 +11673,83 @@
       "width": 1920,
       "height": 1080,
       "sha256": "817223b64f367160ff40f0e533326f1219256cc5bb9ab84dd3a62e0b1e1866fa"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-01-WORD-CHIP-MOSAIC.png",
+      "size": 23246,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "246f720382ea3b119adff15cdb782ef7338559a22cd0d0b8fdb36248a5ad0361"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-02-HERO-CLEARING.png",
+      "size": 20279,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "798cdeacc0d0ab6fd3c17cc8af0bfce6eceac6905cbbb70f139c7906fd18dd70"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-03-DISSOLVING-HERO.png",
+      "size": 23146,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ebaca0ef98b096530022c4189cd8239e0e214cb0d8b4cbd063a01b1e3a5ff698"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-04-CORRUPTION-BAND.png",
+      "size": 23298,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "17c827e14b4183e217d7045ec54009fea0d9e5045f16333d043534ab9b3ce9b8"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-05-SIGNAL-DUST.png",
+      "size": 10437,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "18a74ec2c98671d4d4980d13b14d05bd1dc6b2c991a6dfcae87a92523fa5b80e"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-06-LONE-SIGNAL.png",
+      "size": 10213,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cdc9480f4edc4dad6876f4b3eef6421bdf5e0709123505072e52263a3cb361e1"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-07-HERO-BAR.png",
+      "size": 23254,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1acec9263afea9b269d70ee191a04b1f323cefa419d3398b1132455948cd5370"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-08-WEIGHT-DESCENT.png",
+      "size": 19276,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c6aebd624c58033df883d3ad220db2ff783df77ad3c9e6431e398044fb68b939"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-09-GLYPH-WORKSHOP.png",
+      "size": 13099,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ea6f3a013a356ccca0966f5867e7ac5c36ee5a51f55c602176cba29f07b81f62"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-10-INSTRUMENT-PANEL.png",
+      "size": 22965,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "938667d1c0777b3bc45e06c34ed4e49af099d12bbce0594a03ab65f80aa9d5a7"
+    },
+    {
+      "path": "stills/intake3-stills-2026-10-29/INTAKE3-11-DARK-INSTRUMENT.png",
+      "size": 26340,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0263d516daf36d4b0eb61fa92d968ae580f11d66e562994ddd752e1d662e9ab7"
     }
   ]
 }
