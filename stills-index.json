@@ -11442,6 +11442,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "510a7b28b236f1443d999bc4318a1b7b676367aec7a05e2985001e8f1f5fdb36"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-01-INTRO-MOSAIC.png",
+      "size": 256142,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3e5d8b0a859fdb3f8354260c0d60eac26adb176da9a19abde1027b66fc163846"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-02-WINDUP-TILT.png",
+      "size": 468054,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "490cd36b1cc35efec7cdcece7f8929e076fd7ad390e23c9d6ff12a4d03992e00"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-03-DROP1-FRACTURE.png",
+      "size": 415323,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cb3888d1f0af4883f0cef9824aee490d54919bb9af05ba56a840d53fe3b2f6d2"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-04-S13-FIX.png",
+      "size": 479460,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c15fa3796a2691f9f1754938d2c6d4a1037f58aa280ca7e381449991dff81c8d"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-05-DROP1B-VOID-3D.png",
+      "size": 251693,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "04ca6225d11f9fbb2750de71f9e904cbc7c2c6e43edae50953b6e8c35227bfbb"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-06-POCKET-NEGATIVE.png",
+      "size": 210861,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cafd8350735b2ee54dc2323f0a3b8cb25e82e814c445d1a20163bd2d134829ee"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-07-DROP2-POINT-CITY.png",
+      "size": 307695,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2200fbf54c1140a42026719ed870eedd1798886f26ff9f1a92d2e30fa40515d7"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-08-DROP2-APOTHEOSIS.png",
+      "size": 720169,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "209e6731948d5cb049a9cf5cf67dd2d638632dbc5fe287b9c3248cef22e8c67a"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-09-REFLECTED-WIRE.png",
+      "size": 227281,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "54c82e2797b0b5251d77066419063cfeff869c7be0b1f8e795c693a4474a0c0c"
+    },
+    {
+      "path": "stills/eightball-gecs-v2-stills/EIGHTBALL-GECS-V2-10-FINALE-CUTOUT.png",
+      "size": 277935,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c7bcc1d071fd7dea41daaa5f94f1a38b0c7492cafc33dff0ab5fccd6fea46d0a"
     }
   ]
 }
