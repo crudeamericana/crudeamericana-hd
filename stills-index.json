@@ -11526,6 +11526,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "b21c95a3e7c6f8362c587e07d936076feef1ef505a0c9911d05b455a6c02e0ba"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-02-FIRST-BREAK.png",
+      "size": 295735,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e11c90937c95b27622a7e9c8076f00f62f9f65d32db0dacddc9ff8164bf82756"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-03-MULTIPLY.png",
+      "size": 366528,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8dc8a45d3d9ce725c63dee128a1c0c332bf2f9541cd6b65aea6b595e224ce198"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-04-DISSOLVE.png",
+      "size": 195732,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8b35a005eca1a929cf5bbacb21fc6c02b0001a2586632a4b43d4167ecb8f5a9d"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-05-ARCHITECTURE.png",
+      "size": 182844,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4add8132bcd84327b82d9b9d55497424582c70f1f232bd96c3d36f361d76e022"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-06-TEXTURE.png",
+      "size": 266234,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "11463235d215bc3bf5fc5d9367d5504877d1243a3f1c7d0d050d64699bf51823"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-07-APOTHEOSIS.png",
+      "size": 566770,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "42f69b198dfe3a3f7d2e8d994e35efd2a5625e3027760e868b9fefb23a6ad78f"
     }
   ]
 }
