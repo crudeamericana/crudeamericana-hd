@@ -11568,6 +11568,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "925a7d711e524b499fa75f5d567ed01d6166389d823bdb700f7a171ed7d02615"
+    },
+    {
+      "path": "stills/intake-stills-2026-10-29/INTAKE-01-DATA-WATERFALL.png",
+      "size": 95242,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d1ced455a3c07e3cfcf583a71098f39c26990323107cfa567c6632d854cb16cd"
+    },
+    {
+      "path": "stills/intake-stills-2026-10-29/INTAKE-02-CORRUPT-DOCUMENT.png",
+      "size": 37953,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "adfea376016305e24e1078b4e36e0430d081a47e391d52fe391d3672187839f6"
+    },
+    {
+      "path": "stills/intake-stills-2026-10-29/INTAKE-03-SORT-FIELD.png",
+      "size": 86590,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f1436e5e5009db0072753ef6c67b0473df437a5ff1ba2e2059a08c547b62707a"
+    },
+    {
+      "path": "stills/intake-stills-2026-10-29/INTAKE-04-CIRCUIT-SPIKE-SPLIT.png",
+      "size": 37143,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6fe69674fafecae0c279c299cfb5caf111b0988c2b2ec39edbbeb7f794526519"
+    },
+    {
+      "path": "stills/intake-stills-2026-10-29/INTAKE-05-REDACTION-FIELD.png",
+      "size": 30196,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f46a7bcb489037e48f08c6ad636f73ac46d47229249ecd6a4bfd69c45fa6a2cc"
+    },
+    {
+      "path": "stills/intake-stills-2026-10-29/INTAKE-06-LINE-TERMINATION-FIGURE.png",
+      "size": 15224,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d95f4bb2243fbaa39531db7ed131ad30efb1f5c149558a75527922eadf735b75"
     }
   ]
 }
