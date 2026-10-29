@@ -11512,6 +11512,62 @@
       "width": 1920,
       "height": 1080,
       "sha256": "c7bcc1d071fd7dea41daaa5f94f1a38b0c7492cafc33dff0ab5fccd6fea46d0a"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-01-THE-ONE.png",
+      "size": 88961,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b3dfa8950ef102dbbb950c1bb001ac9669955d077f9edce30f83c8d6f6f0df12"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-02-FIRST-SYSTEM.png",
+      "size": 112493,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "51466ab19c419ce29f03ebe1140780bef7be3aadb3b92c4a1f28689fd5c238f8"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-03-MOSAIC.png",
+      "size": 122015,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b7dbb6ee8ebc34653a9ce813c58f15d2ba9ddb30c7a189306bd2957649f54258"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-04-EXTRUDED-3D.png",
+      "size": 292056,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cb559def1bee00edf8a470dbe8e7e6353ec68760bdfb86e6f6101359b1f49673"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-05-CITY.png",
+      "size": 278295,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ab1f594513827faa22991a0d56df05bf7cc412bd2f0656d947926675506086ed"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-06-FRACTURE.png",
+      "size": 255521,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "906deb02aebc3fcd98945414b0facb5281c019e70b95caee854d5412237c7c4d"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-07-APOTHEOSIS.png",
+      "size": 366388,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6fb75cc901906759589b1d595574fd55d7c488797e687005ea05fba6afbf775a"
+    },
+    {
+      "path": "stills/eightball-gecs-8build-stills/EIGHTBALL-GECS-8BUILD-08-FULL-DROP.png",
+      "size": 438903,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9f54cb3b6f34bc742473ccb84e4732f08cae7dbc2e896ff37066791aace4fc10"
     }
   ]
 }
