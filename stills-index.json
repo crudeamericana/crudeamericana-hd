@@ -11750,6 +11750,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "0263d516daf36d4b0eb61fa92d968ae580f11d66e562994ddd752e1d662e9ab7"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-01-GRAPPLE-PIN-V2.png",
+      "size": 16726,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f114a422e43b3934e57e0da02798bcb843e03cdb380c66c1f18b987ca7450286"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-02-GAZE-BEAMS-V2.png",
+      "size": 11842,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5e2f7d057030a9f9eb16c492143b1843e58b017108e16d0eb13b5a1ca6e3fe9a"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-03-DEMON-COIL-V2.png",
+      "size": 15213,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "15154abb1ed17ba1216e9579d5d029a444dcd602d9e17765c45b64a92cae8e7b"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-04-NOCTURNE-V2.png",
+      "size": 12615,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4b4a525856db1e405dd7ea60386c7c9938e90294444167a5970fcc937df6817e"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-05-MONSTER-HEAD-V2.png",
+      "size": 15980,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "542d868359af747c1983a455ba17667484e5a14c21d39bb7e1ff8d4361367346"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-06-GRAPPLE-INVERSION-V2.png",
+      "size": 15889,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8b71e7b01e7a2018533c3959c1f5f37c1006d55fb7edde6b84db30ae794848c7"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-07-DEMON-STOMP-V2.png",
+      "size": 17062,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fcde5718642eae7ac35bc8fad0fed1098b02912923cc557dd3d41eea068ba7cf"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-08-THE-BURST-V2.png",
+      "size": 23430,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ca352e56b826df14c502531078e581079a8f9343735fbe821d6917644edd0d0c"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-09-LONE-STUDY-V2.png",
+      "size": 11145,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e5bef4b7c6da19bd17868209a41be61b2b2dc2e042bcd0ae06ce578a702b8211"
+    },
+    {
+      "path": "stills/intake4-stills-2026-10-29/INTAKE4-10-OVER-THE-SHOULDER-V2.png",
+      "size": 15868,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7c587c20c6436b790615bc4c48a6b96f3df5ebb334c50911d657c1f87ea8dd5b"
     }
   ]
 }
