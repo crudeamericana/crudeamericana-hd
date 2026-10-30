@@ -11890,6 +11890,62 @@
       "width": 1920,
       "height": 1080,
       "sha256": "b31542c28b0c2b29cb15562ccbc62da2215b5ae91b32c72839886f72633ce20b"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-01-MANTRA-STACK.png",
+      "size": 16316,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "65d27646056642201de167f7feca7071694329e23531bf0c3299baaffa497ae4"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-02-OUTLINE-HERO.png",
+      "size": 12034,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c2bf82fbc474f3e757591e7090c33b247dfac7bb1bf5c8c2f3caec3e16e07e2d"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-03-DATA-FIELD.png",
+      "size": 16752,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7c4c7238e74f16c5ab66ea68b1138161767bf34468869602145ad40b195f4adf"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-04-RING-GRAIN.png",
+      "size": 25278,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "198dead36c0f41675877a340ed1ec7a7d1961d1959e9fa5dfea01e5f9bcd3392"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-05-GHOST-STATEMENT.png",
+      "size": 10942,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bccbaeebd44725ebc21bd093b123be41a96e432ffec59bf47fd5fefdbcc181df"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-06-GORGE-SLIT.png",
+      "size": 10954,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ebba28ddc926c5bfc886106439de21ccf9cf868ef8188babd70a5e90c7919c25"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-07-RAY-FAN.png",
+      "size": 13943,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4a783f3e02ab3727013fb06823cf44a63cdeaf0aab1214f7bcb88a8b138ea7c1"
+    },
+    {
+      "path": "stills/intake7-stills-2026-10-30/INTAKE7-08-TRAIL-FIELD.png",
+      "size": 12682,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c79f04c3f1466be7e0c309434915f2a308a12b1d95d13b4bcbdc29b4014c6fad"
     }
   ]
 }
