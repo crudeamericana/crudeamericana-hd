@@ -11750,6 +11750,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "0263d516daf36d4b0eb61fa92d968ae580f11d66e562994ddd752e1d662e9ab7"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-01-BANDED-WATERFALL.png",
+      "size": 36607,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a8c579fcc808f6d1f9e8e756502ba47fa2fc40fe2b522527826132ef537365f6"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-02-ORB-MOSAIC.png",
+      "size": 29892,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "28746e4ba935d2a10c75feb3f75ea488ff262c1610a311fabf272b8dfc81c0cf"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-03-STATIC-PANEL.png",
+      "size": 65211,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6222441382fce98c5ba5d027277fd1caf661aa74601fa3145ef680a85d7b435d"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-04-DISSOLVING-SIGNAL.png",
+      "size": 17232,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b35277b932a9d5515e0f33fbfbc42710496bfe954f0eff91815ea9c74ea62ce3"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-05-ORB-SORT.png",
+      "size": 27913,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f9f0baa89bd7ab174cdf9702cd38c83d1e78f246137e42a8df305734405d8a68"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-06-SERPENT-TOTEM.png",
+      "size": 16034,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d36d2e294a785d322e560647f2dbcfd733a96b636ae32dce634393373210e02b"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-07-SPIKE-CORE.png",
+      "size": 36124,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d93677beb17e71c265e6c625d452073adf1f7f8e5be5c561c68a2f482aefe8e0"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-08-VOID-SIGNAL.png",
+      "size": 13604,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d997da4831b4ec11c1a6fd690845ee883acf0b35710473a545f2c3c4d3288407"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-09-FLAME-SHORE.png",
+      "size": 16972,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6cf1455e35e55e5f7d64360dba4ecfd762e52fe707594315b452276ab15246d5"
+    },
+    {
+      "path": "stills/intake5-redo-stills-2026-10-30/INTAKE5R-10-SWEEP-MOSAIC.png",
+      "size": 34067,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e9da7eb8e3ceccb2e8a9d989574241d0aa1d57c85bd115118e1fa552c87c80ae"
     }
   ]
 }
