@@ -12226,6 +12226,62 @@
       "width": 1920,
       "height": 1080,
       "sha256": "00d2007e8497cf1bced92e6e1977e18b939659a84c25aa952a474072a0443314"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-01-PATTERN-GRID.png",
+      "size": 13556,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ea1c5cd8e4486d93a211141f540d3e3741f310e613f9aa37df4950efef9e6ee4"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-02-FAN-FIELD.png",
+      "size": 31671,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "620dd79504ee7f07d1d5a2c1e6a3e89c8bf075a995f0f7aab16d85d3143e92d8"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-03-WARNING-PLATE.png",
+      "size": 12998,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "76953ad8c8b647dbdf3f6913013f2ad61a676cc31dcedf10a88b7474a55a6f55"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-04-BANNER-DIAGONAL.png",
+      "size": 17885,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b69efc0cd1dafa61829ad016e91686b5950cefc8e5618ecf4efa119b3f462a2f"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-05-STATUS-BOARD.png",
+      "size": 11167,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4fa5394eb7a6b9309c7e1d53b03b7c74ccacac6f3f36c99b4c1a26578a845f15"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-06-WAVEFORM-FIELD.png",
+      "size": 28298,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a6563243d051dcbf86ea878261b30ca49f9647851df5fe1bb01f0d3376b8069f"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-07-SCHEMATIC-FRAME.png",
+      "size": 11557,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b944f139198b22ea10964f2b58f35ea1529a83d2e2f946c5e8f190abccbebb48"
+    },
+    {
+      "path": "stills/intake12-stills-2026-10-31/INTAKE12-08-TARGET-RETICLE.png",
+      "size": 12878,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d20790a9ccac4ae0fe22065919655fef7aacfe94afc6eb091e8ea3f1f9e11c83"
     }
   ]
 }
