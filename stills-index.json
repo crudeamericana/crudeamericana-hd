@@ -11946,6 +11946,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "c79f04c3f1466be7e0c309434915f2a308a12b1d95d13b4bcbdc29b4014c6fad"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-01-XRAY-BAND.png",
+      "size": 37491,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3a80caa6757f35b236bc38d4eca0e2d1ab8ee5f4f1bbaf3f9c6539a4ec743911"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-02-STIPPLE-FIELD.png",
+      "size": 36694,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7adc40bb1220ff6c71cfca82536615429dbdc180a0260e4a59c3de774d978661"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-03-STIPPLE-DISC.png",
+      "size": 19101,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "715cba8c31703b358f71e196e2971d5dac718d8e9348e2dbfc1c3153814af425"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-04-BAR-GLYPH.png",
+      "size": 10926,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9a391e09eb2f3a95250939090c50b6b6743c2bfc103fe910fefa1aa5d8523e59"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-05-TWIST-TUNNEL.png",
+      "size": 26590,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bb2851ddf40cbe16ee07bf15e3fd88492a30427839b5815e22ca15db5388f1b1"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-06-GLYPH-RAIN.png",
+      "size": 24039,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8e5684f52a966b799e1295592a9304d5f0c245fd2636d12e056c11d640a1a3ad"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-07-DATAMOSH-FIELD.png",
+      "size": 24952,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7dcacf9ec25d20b4b3d402f33ea414931d0b0c35064a59533c7255c0653f0440"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-08-ORBIT-STAIRCASE.png",
+      "size": 16014,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "70f2d9eed8ef695060336fd87b8bbda10eea164506e361378207de8de9dbbde1"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-09-WORD-SPHERE.png",
+      "size": 14600,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6d9611b2b9abd7e1603dfc6d67b0cb287d6565258461937bc65f74012ec37051"
+    },
+    {
+      "path": "stills/intake8-stills-2026-10-30/INTAKE8-10-WORD-WALLPAPER.png",
+      "size": 28841,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fa6322acf866e25a4164f659002d4acfd26018aa6458c468e9f065d5bd2a7934"
     }
   ]
 }
