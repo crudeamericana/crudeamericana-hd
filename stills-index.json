@@ -12422,6 +12422,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "f36c7a8faeddb33cebed1ca211de191ebeae31039a8a920f2683cd82a384d142"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-01-STAVE-WHEEL.png",
+      "size": 12912,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1b9f5bdba08b7dc831c9192ff9cfbf4a1d780208bfb5a3d9658f7013abba6fc2"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-02-LETTER-SQUARE.png",
+      "size": 9990,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5cb84a5a407390b42936e26413faef2344765a8a2e745954d147016901b9c34b"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-03-TAPER-WORD.png",
+      "size": 9519,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4aa13efe1b7816e934a657bb80658ab1107f56822e6fe1882cd3f4761625eb84"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-04-KOLAM-LOOP.png",
+      "size": 12383,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a4a94c05a6f03f7b782bd12888af4c447c20d57b7bd90666e18db25a6d0edc88"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-05-CUP-FIELD.png",
+      "size": 13636,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e9cce4790fdead3319e6afcb27a898a9dc75a5343cad33975cbe2ce335e44f6b"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-06-STROKE-STEMS.png",
+      "size": 10208,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "af30681b51d2db6cbc5aa7b69a2a6f3bb03c820e1c87055fe43f92f6a743a29d"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-07-LISSAJOUS.png",
+      "size": 48916,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c3e0064be3d0b9afb7b515f18cc6e61e9401ec409413fb41b9ce8eda042f3e00"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-08-GUILLOCHE.png",
+      "size": 42303,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c2170714bfc90f349beb06ea5fb59c18e72a256372557ff024a5eba72c377555"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-09-CRACK-FIELD.png",
+      "size": 20167,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "edd64c58cdfedece4f6276f77721e46b4e5daca81a167e8056bbc6717e48d903"
+    },
+    {
+      "path": "stills/intake15-stills-2026-11-02/INTAKE15-10-SIXTEEN-FIGURES.png",
+      "size": 10337,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d80c999cfbec79db689cb9d0e8dfd3bed6876052a99fc7755c0dc59beead789c"
     }
   ]
 }
