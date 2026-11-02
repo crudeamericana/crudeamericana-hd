@@ -12492,6 +12492,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "d80c999cfbec79db689cb9d0e8dfd3bed6876052a99fc7755c0dc59beead789c"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-01-NODAL-FIELD.png",
+      "size": 16103,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9352253b027e521f8f7c0fbfa492951b1cca7a1153873d49d8d6ff47a8b1729c"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-02-KNOT-CORDS.png",
+      "size": 10246,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8bf6a9dd4c4135d33fe8cb7a012d191fb00b142fa8fd8d359560077cb682be9d"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-03-PIT-GRID.png",
+      "size": 11662,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "95633cdfdd6e9c4e96dc79db099b773ce27e21cafb20ac74581a2e250f37a6cc"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-04-RHUMBLINE-WEB.png",
+      "size": 34857,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a4fb3cf9565fb3ed5c1f15a8d52c17155d5424b6cc8e8c7b8a48342ea23e01b8"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-05-PENROSE-FIELD.png",
+      "size": 31685,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b08e7c71c3e4318dbaa8ec4fdd4aee37aff34cbe203efa1789beededc2cde983"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-06-SPACE-FILLER.png",
+      "size": 16050,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9d5de757ae9956af77bc57d91c2777909881b44203f466064cd8bae7b06ad830"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-07-PRIME-SPIRAL.png",
+      "size": 15943,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f8b5efcc8fc7c33cab58bd5108a05543827ccee561e260cf97bc21d66888c428"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-08-FIGURE-EIGHT.png",
+      "size": 12489,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6c71db345db5beafd2ace2a4ab7f791070db962929e63fe383324ce7264e4936"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-09-DRIFT-RINGS.png",
+      "size": 24444,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "104859d5f48809c60b4bcd2205401ecb87e23dd793ef24f8db6751922ecfca81"
+    },
+    {
+      "path": "stills/intake16-stills-2026-11-02/INTAKE16-10-LIGHT-WEB.png",
+      "size": 22804,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "917e7879c36732aff570133b99553f187d2a1387e555f038a80698a9812208c7"
     }
   ]
 }
