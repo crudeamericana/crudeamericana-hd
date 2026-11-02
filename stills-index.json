@@ -12282,6 +12282,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "d20790a9ccac4ae0fe22065919655fef7aacfe94afc6eb091e8ea3f1f9e11c83"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-01-CROWD-STIPPLE.png",
+      "size": 41969,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d50386a771c895874bd9b3cda94d1b3f604db28dfc63e732a71417d2c2d8b61a"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-02-RING-PAIR.png",
+      "size": 14031,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6a4a2a5d6f3a6fc21695f5a00a8eb59059f021fc969d4a00a595dd65a6ec86e7"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-03-SPIKE-RISE.png",
+      "size": 13155,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e43f5a0e14a290196b50d545ebad934c33fcdb892b04a487986c8c2f964dfa25"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-04-CORNER-GLYPHS.png",
+      "size": 10272,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3638b278cf88b3f585158a3ead3aefbcb3f893d97a5b0b444f8883f1191eb246"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-05-QUIET-FIELD.png",
+      "size": 11826,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d89cca06e872a3cdc1d023e6987d4b18174ee71696857cadcb41d6bdd108a099"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-06-FACADE-STACK.png",
+      "size": 11077,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2595d8e730ec363e2707f02392477b0980c4bda6cd62922780d6c2ccc035b774"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-07-STAIR-ASCENT.png",
+      "size": 15970,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d2f2e8560abd87f65bd7bae555e546190be6c900ad13002abeed85b7cf15e992"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-08-WIRE-FIELD.png",
+      "size": 13259,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2a961fbde96fdcc9f471fc1e446026e391a633cb0f4cfb0fdb0dba524177addc"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-09-FLARE-GRID.png",
+      "size": 14876,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bbe315d5249a0d2fad6da7ad23a8fb0b36948ee57877eba917a2e56127d4b740"
+    },
+    {
+      "path": "stills/intake13-stills-2026-11-02/INTAKE13-10-STONE-GRID.png",
+      "size": 9854,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5b6b1fae93151809fbd814c9e515ce8bf4b23736d4c92e1c7e8e2b3d645cefd4"
     }
   ]
 }
