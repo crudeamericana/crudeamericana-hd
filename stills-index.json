@@ -12352,6 +12352,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "5b6b1fae93151809fbd814c9e515ce8bf4b23736d4c92e1c7e8e2b3d645cefd4"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-01-SEAL-DIAGRAM.png",
+      "size": 13463,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "21ba0a0e811d6bbe1c1ac3f8d0f07ae7df26d92aef2452792ceaa2b775454e93"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-02-STAR-DIAGRAM.png",
+      "size": 11090,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "705d0106c4c742e397ea66f3cd77dee2799cb35c40c433c07fbf751abfe0dec8"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-03-RETE-RINGS.png",
+      "size": 22311,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c992e191f8450ad7fdb9a6baa88c0ead59df37285d3113ef9923c0d1487d8980"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-04-FALSE-SCRIPT.png",
+      "size": 31327,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2bb1e0c496675b3acc01ec03e64250eec7ad7a1c4c5401c763ee72eef58ed287"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-05-INTERLACE.png",
+      "size": 29691,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7da58483d6efeec0b3e9fb30cd846b06901d7ff89553b163e1b077f1e289a038"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-06-TABLE-WEB.png",
+      "size": 11045,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2e17ba27d190bd621f49cd9150875abbcecb2676929d348068449b9af4c39427"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-07-CORONA.png",
+      "size": 19265,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "df3e00568a0230827be8a6016cb0f944ea93b3bdd65b4c305563d39b3bdcc3e5"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-08-WARP-FIELD.png",
+      "size": 22359,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e2069a83c70cb4ee97ef9c0d27423cacaf5a50be2091a3cfd1ce160d60683f1b"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-09-STAR-DISC.png",
+      "size": 18747,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "10455b8d506cec47aa7a02789a6c69d3eb43cad494a7a391bf2ab3fa396110c8"
+    },
+    {
+      "path": "stills/intake14-stills-2026-11-02/INTAKE14-10-LABYRINTH.png",
+      "size": 11494,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f36c7a8faeddb33cebed1ca211de191ebeae31039a8a920f2683cd82a384d142"
     }
   ]
 }
