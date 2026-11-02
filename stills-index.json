@@ -12632,6 +12632,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "2cab098b28e1404961c4c89c272e03c73a85edcc4ae675254ece8c7708f5003b"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-01-HEX-COLUMNS.png",
+      "size": 21006,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "50ebcf4e02d04a08e8bfcac5dbc46dcef6d0b7a81902e3dd30b2f0b771e47904"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-02-BRANCH-DEEP.png",
+      "size": 20054,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "53d5e770b0c8393b7fe2131dddcd562a19e313976026ad807fc52bd424651dd0"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-03-CROSS-MATRIX.png",
+      "size": 12790,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ad99cef53377d1f9b7d2544f9065269cfd5fd1b7b9668e2f1d4e0ad662c982bf"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-04-ETCH-LATTICE.png",
+      "size": 21573,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9a3eec0d07a0f1979dbc3ea22c98a65563ab9615d2139027f8c1a0525ffebe17"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-05-SLOT-CYLINDER.png",
+      "size": 11505,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c0d39967846ad21e382e50cd89e26b2c179190124bd854aab78d21eece7c6bdb"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-06-SWING-TABLETS.png",
+      "size": 19554,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cc3357d01cc14f776d1980f7104efeda5c4027f24c2b6ad7d9e603c9952fc05e"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-07-SALT-HORIZON.png",
+      "size": 21554,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4765132b6a52a037b26edbf00f71dfeb3ff20ada63c07d887e20b0f4ef019d01"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-08-FORMATION-TIERS.png",
+      "size": 16537,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "19ec5911a3bf0548fe86b152126becca661448106e195c8cfa61aedc3971b1b8"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-09-SPIRO-TUNNEL.png",
+      "size": 21505,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "29a637bb92515b0e96d2981d623bedeffda26006d9118e6a72e12e1c69bb478f"
+    },
+    {
+      "path": "stills/intake18-stills-2026-11-02/INTAKE18-10-LETTER-TERRACE.png",
+      "size": 13061,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f34ce220aed491ab6915f6ea262721a5142f5d71c665bf478d579e21761ea71f"
     }
   ]
 }
