@@ -12562,6 +12562,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "917e7879c36732aff570133b99553f187d2a1387e555f038a80698a9812208c7"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-01-YANTRA-STACK.png",
+      "size": 16069,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "73e5d563b6d4241d8794e5f1bce50d045e6a0b5e2eee98b81a9275d2f23e1fda"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-02-MAGIC-BLOCKS.png",
+      "size": 13263,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "784a3a51f3124b2b2ecaae7c296371138f85d2495cdc4f169e5169b1a411e072"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-03-TREE-NODES.png",
+      "size": 19436,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2d7c28dd7c773f96a3281258760a2a61e5573a1504e54fb56ffdf2ed730bee22"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-04-MOTION-DISC.png",
+      "size": 15709,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5b07e0c3f7eb1876e11bd403626922fb1c6d882ac0c909fc6d9bfb7b4b8a302f"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-05-MOIRE-CONTOURS.png",
+      "size": 30321,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "42cd7775c817ca1f7fcf4437223483fc138156c87c415513646641d1d096805e"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-06-DISC-STACK.png",
+      "size": 16352,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2f1a22d4ca1fa19d746ae15b6a6b66fe2d5bf846eb4a52e5c69afb3264e3ccf4"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-07-ATTRACTOR-ORBIT.png",
+      "size": 20298,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "29abe4f0b9da52f953bbcc5824b853860647f7c8f189620361b560a087a9edb7"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-08-FOLDED-STRATA.png",
+      "size": 14314,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8e135866df42843e179c03a8c977fea706b1274a713c6fae2aebb5173828ac80"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-09-DENDRITE-SLABS.png",
+      "size": 21294,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "21578d85221277861ebebe45f511485f6f5036f8f929b844b7119aa079c9302f"
+    },
+    {
+      "path": "stills/intake17-stills-2026-11-02/INTAKE17-10-MANDALA-TIERS.png",
+      "size": 14383,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2cab098b28e1404961c4c89c272e03c73a85edcc4ae675254ece8c7708f5003b"
     }
   ]
 }
