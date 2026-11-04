@@ -12842,6 +12842,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "fe62379f61c1e253241c6d6e2bbb001a24811813962d369ddda085e64b6fe1e8"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-01-MUQARNAS-CELLS.png",
+      "size": 25426,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c3113edd7244582175bd71fcf4ed26f1fe67d7654418a54cf484ffc0b5d6b9d4"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-02-GIRIH-TILES.png",
+      "size": 41764,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3040820646000795052378a19c9317f1c27f78549c68a156baa8e22e83890488"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-03-NAPIER-RODS.png",
+      "size": 33112,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bb04a8e71a0cf728dc109fb254fcb4480de93d9d494f24086f27b31d69b0da19"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-04-TIDE-MACHINE.png",
+      "size": 29703,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "affd8ad07de10ddfb0e122a6e0518a3392c7db97cf2c53512634148fcd035a2b"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-05-ENGINE-COLUMNS.png",
+      "size": 36282,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "921c52b529d124f73648094999a68b914cee95faa65f190ec68c74d9448aa6d7"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-06-BEAD-FIELD.png",
+      "size": 37923,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "79bc0567caf44c159af7d7787e7f71dedde20821219cfe5c1514a5b95f84ab6b"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-07-CARD-CHAIN.png",
+      "size": 33982,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "58d609162effb3e9a38185a63261c3d91b70d6b0cfaa022f3e11b8df75fd20cc"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-08-SONA-FIELD.png",
+      "size": 29320,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "61f08a406f40a116a0486d69bbcd4e73df545b0093134b18a2bdd6cc315c85cd"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-09-BLADE-CLUSTER.png",
+      "size": 38850,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8ab2bf14f8f1fd43780cf35f6ce89fb83559957c6dae72beea696e9c3ef0ef1c"
+    },
+    {
+      "path": "stills/intake21-stills-2026-11-04/INTAKE21-10-TESS-PAVEMENT.png",
+      "size": 29351,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3ec91109c9b4e2c3dc3d008b4c43cb6bd04edeb3d611b2d327d11b7e15b00f96"
     }
   ]
 }
