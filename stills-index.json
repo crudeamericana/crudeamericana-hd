@@ -12772,6 +12772,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "80dabda887a404f89d76eac0d65ffe3d40d19aebca366b9f0a7ab8b7c5104f8d"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-01-NESTED-SOLIDS.png",
+      "size": 29871,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f5c43eab62d4418432c8c5611566acdfac068a39fac7bdda32fa70b739582b46"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-02-STRING-SURFACE.png",
+      "size": 32946,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d76489c146af6fddff122abdb8f81da4b73589926752a370b69f94783eb3e7b2"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-03-BISMUTH-STEPS.png",
+      "size": 33387,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f9638966e1fac7e0ec47c8d4ce38235e8b944b5a47b326fd97c7b96fe51ebc79"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-04-CUBE-CLUSTER.png",
+      "size": 28879,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4c4c9fa1b6f6a50f6439a2c232a97dcce82088aabf6d895af39546c6c344c4db"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-05-FLAKE-PLATE.png",
+      "size": 33649,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "afbad9c5c401567ca169f27177a72bad5f5661f6cd5ac4e0bcbc17ae05c80aca"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-06-GEAR-CORE.png",
+      "size": 31085,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "086408a897c9740c8e17fd3dff7cb49e32cee991f4996975126c6c5195cac177"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-07-TURF-MAZE.png",
+      "size": 25699,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c94ee97040fe7ecf07ea5a0dedc27dd754e0ef5f1d76432b666570a5e5d10cd5"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-08-STONE-RING.png",
+      "size": 28267,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "eba4f4b6f4bf7b7382e8581b3c483e30fc67a3009f0c660db6f6ed83e2c31584"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-09-PLANISPHERE-DISCS.png",
+      "size": 31095,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "78f89dc8b1b138af1960f4b73f2ccbce479e82e5a970397c573a7256f167c42e"
+    },
+    {
+      "path": "stills/intake20-stills-2026-11-04/INTAKE20-10-PENDULUM-TOWER.png",
+      "size": 31681,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fe62379f61c1e253241c6d6e2bbb001a24811813962d369ddda085e64b6fe1e8"
     }
   ]
 }
