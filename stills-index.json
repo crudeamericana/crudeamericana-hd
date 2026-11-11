@@ -13339,6 +13339,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "cb743d75485d89531514b6399316108645199debcd324e483d23ff338dc3c555"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-01-THE-GATE-V2.png",
+      "size": 568880,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "dc7c851f882cf70f756242599d65c833e8a57b959cf0ac75af5c581b6dde6e5c"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-02-THE-RIVER-OF-BLOOD-V2.png",
+      "size": 186337,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0cf3cd23a2b0bdb4eb4f7da9f8cf9de9e7da67390ea519e576207e43c76ad91d"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-03-THE-WOOD-V2.png",
+      "size": 352393,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6db56710f89342d79f5578c1ee17ac59e75ff980befbb9615caed8f9b2af6806"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-04-JULIA-CHAMBER-V2.png",
+      "size": 480953,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "855392d648ad32b44a3f2c9eae78b2c95fff4a0bf4c29a1b056404d4d5d06154"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-05-BURNING-SHIP-V2.png",
+      "size": 186699,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0cbbef358c6ef69565d9dd8046db9ff9694d1d7dd5d84a4749e911fb62890df2"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-06-NEWTON-TERRITORIES-V2.png",
+      "size": 76545,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ecde2dc25341b3b52d5b0251db8a725b58b752e0ef3a63be0d8fdd25cbefed86"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-07-THE-FROZEN-LAKE-V2.png",
+      "size": 100394,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9449ca2839dc93e12456e5a7484d9f523c929a772a31b5094e4092dad0be3879"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-08-THE-SLAYING-V2.png",
+      "size": 198854,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ffba41ac28c0b122e61a1bf42a046ba4751c677dd40fbda1a22c56f4d3dd53e9"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-09-THE-VOID-EYE-V2.png",
+      "size": 15232,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "127f961db74ee31e29ca03817eed9da364b9b6eff172f1e727957821a65c0c09"
+    },
+    {
+      "path": "stills/rc6-stills-v3-2026-11-11/V3-10-THE-FRACTAL-FIELD-V2.png",
+      "size": 181590,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "16240a3169ba9654c1ce9a99bfba27e2174a7a01f40ca4cf0796ba7867354ad3"
     }
   ]
 }
