@@ -13220,6 +13220,55 @@
       "width": 1920,
       "height": 1080,
       "sha256": "9c61025af191b3ec5b6cdd1104e89c40532e5ec2b67aef218c3fabe8a8bca80d"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-01-SHATTER-COLOSSUS-V2.png",
+      "size": 365099,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4fe8255a53caa9893cd7b1000a8ceab589d152ba7c1756dbdf6a125c5e9d93fe"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-05-THORN-WAVE-V2.png",
+      "size": 257508,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "893a9bdb59cb35b59c35252eccf7f245509e9d627eaf9dfffb8756953ce39a50"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-06-HAZARD-WRECK-V2.png",
+      "size": 278937,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "584430689546d3c6a0c0e54bb5c369ec41215ebfc84135277e2ecafddb3d6c9a"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-08-DETONATION-V2.png",
+      "size": 345009,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "236a0bc6429608fb9c78a57539754ee4c095ec8638e81e4e9b45001ff2a97e20"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-11-MANDELBROT-ABYSS-V2.png",
+      "size": 1380609,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e1f92f3646d9f9261f895c5166cdda7af167fffc1cdf6e87a8022fedde4c2e14"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-12-DISCHARGE-FOREST-V2.png",
+      "size": 276462,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a7e3dd561484e16e91415a91cca2b4cdcaffb1c02df26799326ddb90ffd8f641"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-13-THE-OLD-GEOMETRY-V2.png",
+      "size": 312197,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0538530629d796e861061da2c8bc8981ff36bd611dc7b70db890266ad7d36102"
     }
   ]
 }
