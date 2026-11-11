@@ -12982,6 +12982,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "90596baee756a0443677916aa6f96f82a4e7c78a12685b52351cbe0b4038ea0b"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-01-PROGRESS-COLOSSUS.png",
+      "size": 159300,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "976f67ba09a5dbb2c43d679c516f973317772893507990736d3e0cafb4774a87"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-02-PROGRESS-ORBIT.png",
+      "size": 179809,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c1a9beb109a3d613bd419dfc5878202dc589df302cb682813d58a605c4d35b0e"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-03-FAST-TUNNEL.png",
+      "size": 190409,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7d027ca9f47257b408f83027f17a657e3302dd357b7dadf69dba0632ab615df1"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-04-SENTENCE-LOCK.png",
+      "size": 305824,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "235f32688b973c6a216b8b9b7c74a2b888f467a5cbf59fbdea4c5b5091c20bbb"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-05-MORPH-CHAIN.png",
+      "size": 232129,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a97644e26c089d5cda8d24dc9e2380119620744fdb5efca9c70f0a3521a1dcec"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-06-FORGE-CONSTELLATION.png",
+      "size": 234679,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1d2cff8f1e53c114052a50d4f5fa3946b6ce4b10d798ac8d9aec0bfa9253f79b"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-07-PROGRESS-PERIOD.png",
+      "size": 93171,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4b721310c35a055aa6b2fe00a3cfc53df974e1e23398fa289662c5272db71281"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-08-WANDER-CITY.png",
+      "size": 82919,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7ec0b615f910bca9ca090a4793ea377cbdc10178a6390fe733b99133016472bf"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-09-STORM-WALL.png",
+      "size": 177268,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "805a021a398dd3408aa5b285fbac2e34038b76d58d6e9fbb678050ce0ed26a0d"
+    },
+    {
+      "path": "stills/rc5-stills-2026-11-10/RC5-10-PROGRESS-INVERT.png",
+      "size": 271952,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "06dbaaf085f172a425be4c8d18ba02bf0edb6f5ff33b881ecf12bb161194ea61"
     }
   ]
 }
