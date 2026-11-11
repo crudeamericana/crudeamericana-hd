@@ -13052,6 +13052,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "06dbaaf085f172a425be4c8d18ba02bf0edb6f5ff33b881ecf12bb161194ea61"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-11-EXTRUSION-COLOSSUS.png",
+      "size": 375165,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3ca99d008766dd52c64405b6df1e40f06c8d79843bff96551eda013223c3ca0b"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-12-CEL-SPHERE.png",
+      "size": 241569,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "873111fd6b9bc1e3b0eba02e63d010b8bfc7f27dc41e3d3078ebe237aebc777b"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-13-PERSPECTIVE-ORBITS.png",
+      "size": 259602,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "bfb546f7102b9a1bc865b5e88ec6a629d268c7f0392343a9e99e421bbbfc09c1"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-14-WAVE-FIELD.png",
+      "size": 100505,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "289e6d1a6881c90ce9621665b8191677597f0ab53bae1f14704d2e98bc31d179"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-15-SQUARE-WEB.png",
+      "size": 214178,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "71b705988fb90d90a85cf16da166f5a9ceb671bfa667ae908f422fc3d5ddda28"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-16-STACK-TOWERS.png",
+      "size": 251643,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0c602554aed8cb1f9adc7f744c07d7f07eeecb2748800ffce2918b53127cded5"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-17-PARTICLE-DIAL.png",
+      "size": 239242,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "376f9f9af3f1f08025201e7065c02217d12135d8a424d2337049bda989085e04"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-18-SLAB-CASCADE.png",
+      "size": 170098,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c565618e1e8c05cff0a7d3f356bc51149cf4e08aea34d0ca742952e3d6c69a89"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-19-WALL-SOLIDS.png",
+      "size": 340023,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a34a71d649836cd6e8b45f15f1184b4a54447f56e085139ac7cb601682169410"
+    },
+    {
+      "path": "stills/rc5-stills-batch2-2026-11-10/RC5-20-BADGE-FIELD.png",
+      "size": 235377,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4f1386192447907dfc75cf7d1243c172d8f6fecf95f4809979b031d3bdcecda4"
     }
   ]
 }
