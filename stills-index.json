@@ -13192,6 +13192,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "7440bb8dd7ebc09112c0d92c12bf70fd4cfaca6291221a1cacc49ea1738c31e0"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-11-MANDELBROT-ABYSS.png",
+      "size": 1297161,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "261b24a9ef322f63b1aadf77cf235b9f5eef33bd34c280f9d38e98ed1b143e96"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-12-DISCHARGE-FOREST.png",
+      "size": 357479,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "452f8a42d0f56bf59990d31a73a852d40ec9ae8b94026152aaf43d5f9a0e8ddc"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-13-THE-OLD-GEOMETRY.png",
+      "size": 305647,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "148f7d4faff38728d3519a26c322f4689ca63d4e335b1ec26ac6a4c8beecdbdc"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-14-GLYPH-STORM.png",
+      "size": 341328,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9c61025af191b3ec5b6cdd1104e89c40532e5ec2b67aef218c3fabe8a8bca80d"
     }
   ]
 }
