@@ -13122,6 +13122,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "4f1386192447907dfc75cf7d1243c172d8f6fecf95f4809979b031d3bdcecda4"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-01-SHATTER-COLOSSUS.png",
+      "size": 358397,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "887d4ee95d89e880de65b78fe94d7eaef53a8513be1661d0749f9f7f038ec10e"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-02-BLACK-SUN.png",
+      "size": 265104,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "423722e17cd17f91e18a204d2712124cc426fa71a7177267cffdfaed228d2c48"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-03-FRACTURE-FIELD.png",
+      "size": 121839,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3847c9d30a8a0576efdcddd326f3c994a2084eed4d5ace5f953adc3be6359c99"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-04-BURN-MOSAIC.png",
+      "size": 71482,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5f4dfd2492fd346fe2110df4e766531e3f92d2775223bf7bdaf7e49e9f0ac39c"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-05-THORN-WAVE.png",
+      "size": 231264,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "84dddbedf3358e29728dda3f0d57ac9c20e3ff1e5bc450cfda9cfe984861e92e"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-06-HAZARD-WRECK.png",
+      "size": 275182,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2e33a9efac08e3a525d46ec5aab74f15c3a403fdf2a6a1bab95157c8d8166756"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-07-SORT-WOUND.png",
+      "size": 348029,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "84b4e1e92f161c5b61084e98d004ece9212045d9606b46676e134772bb15af5b"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-08-DETONATION.png",
+      "size": 275971,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c71f7f57c3e571efa18ec2dac6482bf7ff00b2eeb546332da169f72b18b455b0"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-09-NODE-TRAP.png",
+      "size": 268180,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "63d52cf90bd4cb7dc27d50c0a814f896dfa537f59a9a65bc3627050c68d8cfe2"
+    },
+    {
+      "path": "stills/rc6-stills-2026-11-11/RC6-10-THORN-SEAL.png",
+      "size": 107067,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7440bb8dd7ebc09112c0d92c12bf70fd4cfaca6291221a1cacc49ea1738c31e0"
     }
   ]
 }
