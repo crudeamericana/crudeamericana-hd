@@ -13479,6 +13479,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "395bc3da2e3e6529500881b30fd233c234dd2bf5c649b828112a617ce1b80d8d"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-11-EXTRUDED-LETTERS.png",
+      "size": 48653,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "5e66eaf860f5602587e5974eb7fbbeadf71c6a38aee6aa7b99078907877d2a7b"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-12-PARTICLE-MORPH.png",
+      "size": 49455,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6a862554c8b3998b345cff54f1f98b8a4f39cc1d7415ee8b95707c4ac5e797ad"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-13-WORD-FIELD.png",
+      "size": 44168,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9324f77b2a0f47f93375be1e715ba911098f6ce00f607b47ded3be7afa6fc716"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-14-HALFTONE-P.png",
+      "size": 52769,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "51a654124b7180f847352fcc9fd41f72ff863ea0d182c7547833eacbd693da28"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-15-MOSAIC-SPELLING.png",
+      "size": 19604,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7a41e1432945d4a7d38a87b90a05dc059642f0a5edeb66493c87dd39f6e36f6e"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-16-KALEIDOSCOPE-HERO.png",
+      "size": 27856,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "df249ea6f7973b334b524a2b9f0f7b4e160fdb6373825f9f5f3dbd773b52b13e"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-17-TUMBLE-MATRIX.png",
+      "size": 64563,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "52b2b26447f4dc3decfe14c5e2d44ad66a43834265e946de0992e2fe31010615"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-18-VERTIGO-HERO.png",
+      "size": 47435,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "976793b7a7d446128b1174a6efeeea17c4517651e8c4e63994fa0a2aa8156a93"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-19-CARVED-WALL.png",
+      "size": 23800,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0ec7ab8965bd6098e58217c7147a96e4f8bdac426402b74d430c6c3918334150"
+    },
+    {
+      "path": "stills/rc7-stills-batch2-2026-11-11/RC7-20-SCALE-CANON.png",
+      "size": 56301,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6aaa60e3a531c27a571f09a4d6dd68fd5dd0fab9fb1a76d2778a014564f21e6e"
     }
   ]
 }
