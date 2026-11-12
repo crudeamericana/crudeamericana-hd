@@ -13409,6 +13409,76 @@
       "width": 1920,
       "height": 1080,
       "sha256": "16240a3169ba9654c1ce9a99bfba27e2174a7a01f40ca4cf0796ba7867354ad3"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-01-THE-FOLD.png",
+      "size": 137413,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c4d373deddab50c09234e71a7654327da8db17d837ef4c15b77e6c6e4b9cf84f"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-02-GARGANTUA.png",
+      "size": 18964,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8170c1080b8c3a1b4e751dcd2a20c7aa028f253123d0e1d926ebe3c5e44fbfd8"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-03-THE-WAVE.png",
+      "size": 15609,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fa5942bf0d3f3fc3f27c267b9efd5396f82a71abb59412ec5e548ca3ee6625d7"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-04-THE-MOSAIC.png",
+      "size": 12167,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "53836e4a339343b5b99017b909745b31482e00bff78e1b75410fc7674200e97c"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-05-THE-KALEIDOSCOPE.png",
+      "size": 15126,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "62838fb4dc9faeb90b26ed5808b64efbdbaf8302a4f4d5ea27326212eb0fcfb6"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-06-THE-VERTIGO.png",
+      "size": 25426,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "81c66e5bc565fd31815f6b44c4881c5e544efcd6cb77e103b0e4f1eb80096c1d"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-07-THE-TESSERACT.png",
+      "size": 18565,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "74bda8fa3afc415b55f0dc23cb3890551aa5c27efe4b2313050f29dc43ed956a"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-08-THE-RING.png",
+      "size": 16648,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3895985e2864022c48b2ffd9b39e0c0c29a9763a2191ccc67bea0a0bc85ddfb9"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-09-THE-DUNES.png",
+      "size": 21435,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a7ea448484d0a88f53f0813e036be51d3a6e6b13822b4025e0389c3803b6a3b1"
+    },
+    {
+      "path": "stills/rc7-stills-2026-11-11/RC7-10-THE-MIRROR.png",
+      "size": 23434,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "395bc3da2e3e6529500881b30fd233c234dd2bf5c649b828112a617ce1b80d8d"
     }
   ]
 }
