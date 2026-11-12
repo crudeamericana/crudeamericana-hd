@@ -13549,6 +13549,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "6aaa60e3a531c27a571f09a4d6dd68fd5dd0fab9fb1a76d2778a014564f21e6e"
+    },
+    {
+      "path": "stills/rc7-stills-vision-2026-11-11/RC7-V01-THE-ENTRY.png",
+      "size": 37427,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3eb223a4323f61881fd08161dc04436fbd971cba8af9470eeb21c802a40a7fc4"
+    },
+    {
+      "path": "stills/rc7-stills-vision-2026-11-11/RC7-V02-THE-WORMHOLE.png",
+      "size": 39117,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "74e05d2a9d61bc351727cf90054cc23bab57191faa39d82eb538ab72e35d29fa"
+    },
+    {
+      "path": "stills/rc7-stills-vision-2026-11-11/RC7-V03-THE-ALIEN-SHORE.png",
+      "size": 40287,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f17fbb53b5a309daf6e0b197e338217083f2ac793d124e1989b466023e4dacb3"
+    },
+    {
+      "path": "stills/rc7-stills-vision-2026-11-11/RC7-V04-THE-LOCK.png",
+      "size": 34786,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "91b3372191f957460e192b0508b5660bb94602f707e86a5ce78b0aad5fa519d1"
     }
   ]
 }
