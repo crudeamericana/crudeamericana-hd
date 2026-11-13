@@ -13633,6 +13633,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "c5fabc3d88722c9279c22f1152333333e0fd110c408b6f855f82b2b5b1db8c66"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/09-THE-ASCII-GARGANTUA.png",
+      "size": 45841,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4c2941c8e07e2ae43852dca46df5143663557567f5d31a8338b3897d6c788c4e"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/10-THE-ASCII-DUNES.png",
+      "size": 160156,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "371f396bca7f6ef2f1f3d1cf4f24e352efdcb40a3fbd0cc60dfe2830a4ec7f9e"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/11-THE-ASCII-TESSERACT.png",
+      "size": 47264,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e9b38f3e55c71f8a2e7c437ea8601c49b14164bf3d8a9e33f0e35dacb5c9bf4d"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/12-THE-ASCII-WATERFALL.png",
+      "size": 197340,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "f5ad52fba70e6eb90d81c4bae9deb427c4801827c157408b4c976fd565fdb584"
     }
   ]
 }
