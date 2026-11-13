@@ -13689,6 +13689,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "34ddb24900c7cf47decab0382916796de5364251f54ba4748f5d6e1132193deb"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/17-THE-ASCII-DISCHARGE.png",
+      "size": 114161,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "97c8a749970ae41294e88247ca87135b8a9b2155542296be4cf3dc9d3428038a"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/18-THE-ASCII-HALFTONE.png",
+      "size": 33326,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9b98666b77df0ac934ee9461cccd82bcc36173b2b1592359ac2ca6e6c1947e45"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/19-THE-ASCII-TUMBLE.png",
+      "size": 32878,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "aa3493638bb9abc74c4ff451e7066e39537e27686d86090f28950ee9334c7319"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/20-THE-ASCII-VERTIGO.png",
+      "size": 64888,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2b815c5221839464bb3ce6ef2bf0f03a451347762808209ca9461edf42c12624"
     }
   ]
 }
