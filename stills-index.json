@@ -13801,6 +13801,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "dd2b102bb960b5d432f26d004516b0328b5c808e5798bdcb983a21213b71a5c8"
+    },
+    {
+      "path": "stills/ascii-stills-v8-2026-11-12/33-THE-LIVING-WALL.png",
+      "size": 55206,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "89c7c239e0dd862210eb087e0cdec73ccd1d236af53e57ae013f16a8a21739c1"
+    },
+    {
+      "path": "stills/ascii-stills-v8-2026-11-12/34-THE-COLOSSAL-WAVE.png",
+      "size": 63356,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9cdc2f70825b8ea5b874d0bd5b110b640d5d96f7607e4cf9b12b9078ea4abfd1"
+    },
+    {
+      "path": "stills/ascii-stills-v8-2026-11-12/35-THE-BREATHING-FIELD.png",
+      "size": 67022,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "99489eea5b495f9c290f98a773e5ca3e092241188b13fea8c840b6e86a3e9674"
+    },
+    {
+      "path": "stills/ascii-stills-v8-2026-11-12/36-THE-COLOSSAL-BLOOM.png",
+      "size": 89493,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "74c32539613889cf9b5a67efdcfad574908d3f01d771b935f4218eea359f9179"
     }
   ]
 }
