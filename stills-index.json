@@ -13829,6 +13829,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "74c32539613889cf9b5a67efdcfad574908d3f01d771b935f4218eea359f9179"
+    },
+    {
+      "path": "stills/ascii-stills-v9-2026-11-12/37-THE-SIERPINSKI-TETRAHEDRON.png",
+      "size": 32227,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "543e2310e48ed791b5d11b5632b54af9dccb4eb6dc3cae97731ddf05f3f2c908"
+    },
+    {
+      "path": "stills/ascii-stills-v9-2026-11-12/38-THE-BARNSLEY-FERN.png",
+      "size": 76868,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b8f975d3ce7e04484e98551672ceb4de3273e447778dbcd051b7d1900cf463ee"
+    },
+    {
+      "path": "stills/ascii-stills-v9-2026-11-12/39-THE-SIERPINSKI-CARPET.png",
+      "size": 59072,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "141792c565772d6363682eb358fc45327391788a5fa5b27ca14bd3a82a85532f"
+    },
+    {
+      "path": "stills/ascii-stills-v9-2026-11-12/40-THE-KOCH-SNOWFLAKE.png",
+      "size": 41662,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7ab495a8d4b328ad2a9150ee4cfa96b63f0e553cf9f78a7863ef7cbb9b795962"
     }
   ]
 }
