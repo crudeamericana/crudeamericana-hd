@@ -13577,6 +13577,20 @@
       "width": 1920,
       "height": 1080,
       "sha256": "91b3372191f957460e192b0508b5660bb94602f707e86a5ce78b0aad5fa519d1"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/01-THE-ASCII-TUNNEL.png",
+      "size": 67200,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "11f1aae23c432252529203957d072eb559372124afac291108f94045333cbee6"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/02-THE-ASCII-SEA.png",
+      "size": 113902,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3a420d2f0c676c17b6e33d9f130a6595ebe5cf0386245e8b889af4bae0d46207"
     }
   ]
 }
