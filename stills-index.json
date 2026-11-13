@@ -13717,6 +13717,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "2b815c5221839464bb3ce6ef2bf0f03a451347762808209ca9461edf42c12624"
+    },
+    {
+      "path": "stills/intake23-stills-2026-11-12/21-THE-SYMBOL-FIELD.png",
+      "size": 62561,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b91eca8ba673883bd6ec687b6590fe31eb0cb25d4d64170b2f627b3684d3908b"
+    },
+    {
+      "path": "stills/intake23-stills-2026-11-12/22-THE-NEON-TUNNEL.png",
+      "size": 160002,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4e958e793388a251dc3ad6c8e4686929ae6d0359d8f66cd8a3761685fe8b9c4e"
+    },
+    {
+      "path": "stills/intake23-stills-2026-11-12/23-THE-GLITCH-GRID.png",
+      "size": 78265,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "77b07ac5c336db53b306f73ad36820ce725749c768b2601d705ea8c9c7c8ff12"
+    },
+    {
+      "path": "stills/intake23-stills-2026-11-12/24-THE-MACHINE-TOWER.png",
+      "size": 59626,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b3ebf1a2f716c2904fe92d532cc977156a8278962bc6c42bdea91a1168819e17"
     }
   ]
 }
