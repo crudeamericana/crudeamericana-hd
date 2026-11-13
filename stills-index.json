@@ -13605,6 +13605,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "c86bd63a75b707923a6640d2bf8648431f2ceff42c6577468675be6e5f59447f"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/05-THE-ASCII-FOLD.png",
+      "size": 53341,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a86df2f9d01602b471bc33ad1cb7e607668646efb2b6cfd84e7ecaedccd88214"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/06-THE-ASCII-KALEIDOSCOPE.png",
+      "size": 135044,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0898301441550f214c8df4cb3f86345397f3c06ae7013a7c1490c1a3853369a7"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/07-THE-ASCII-VORTEX.png",
+      "size": 121211,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1ead15cdf3f0d9cb52dae6cda68fc6b69f504f1e93eea0df0cc7a9cbc6006011"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/08-THE-ASCII-GLITCH.png",
+      "size": 115245,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c5fabc3d88722c9279c22f1152333333e0fd110c408b6f855f82b2b5b1db8c66"
     }
   ]
 }
