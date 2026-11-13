@@ -13661,6 +13661,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "f5ad52fba70e6eb90d81c4bae9deb427c4801827c157408b4c976fd565fdb584"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/13-THE-ASCII-ORB.png",
+      "size": 60504,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "20fec547a16683ad1b95c6099e283044a684414b2a109cba9c254c2e3735caa7"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/14-THE-ASCII-RING-STATION.png",
+      "size": 34421,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "76954674ce650841e9a8e914febb46c51838e3b7334e37f09d0da688bbfbec1c"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/15-THE-ASCII-CITY.png",
+      "size": 86667,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2b5d11c8a22848556da83f1b20add32fa99d620246f43b80f551c9c542afb09e"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/16-THE-ASCII-MORPH.png",
+      "size": 122076,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "34ddb24900c7cf47decab0382916796de5364251f54ba4748f5d6e1132193deb"
     }
   ]
 }
