@@ -13857,6 +13857,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "7ab495a8d4b328ad2a9150ee4cfa96b63f0e553cf9f78a7863ef7cbb9b795962"
+    },
+    {
+      "path": "stills/ascii-stills-v10-2026-11-12/41-THE-DRAGON-CURVE.png",
+      "size": 59866,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "6259f3033abd411bdf0520d8101ea823166ee518b72affba8ba0d7a5b0d0d917"
+    },
+    {
+      "path": "stills/ascii-stills-v10-2026-11-12/42-THE-PYTHAGORAS-TREE.png",
+      "size": 23106,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b2e7e7ee8ffa545548b8850ed7313df00a0061a6b4c4ed0490ad502223bfe4d7"
+    },
+    {
+      "path": "stills/ascii-stills-v10-2026-11-12/43-THE-FERN-FOREST.png",
+      "size": 52194,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b4682cc373cb7f004f9a7c24c11284f8e1061d84957d1aa005e6c3844cbc516f"
+    },
+    {
+      "path": "stills/ascii-stills-v10-2026-11-12/44-THE-HILBERT-CURVE.png",
+      "size": 38851,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fabc070c433cffd5a3af81206081a8cdd173e9554616f75ff89edc314d867df5"
     }
   ]
 }
