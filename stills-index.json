@@ -13591,6 +13591,20 @@
       "width": 1920,
       "height": 1080,
       "sha256": "3a420d2f0c676c17b6e33d9f130a6595ebe5cf0386245e8b889af4bae0d46207"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/03-THE-ASCII-TORUS.png",
+      "size": 101270,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "61cf2e86b2f3d938a8329002e15b6150dcfb856ba4e3bd3318365f8c50b53966"
+    },
+    {
+      "path": "stills/ascii-stills-2026-11-12/04-THE-ASCII-TERRAIN.png",
+      "size": 75485,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "c86bd63a75b707923a6640d2bf8648431f2ceff42c6577468675be6e5f59447f"
     }
   ]
 }
