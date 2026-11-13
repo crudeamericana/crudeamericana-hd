@@ -13773,6 +13773,34 @@
       "width": 1920,
       "height": 1080,
       "sha256": "021be7b88700319abf9eb1690d3a69d1223c0398eb7cb97a92af7b88714bfbf1"
+    },
+    {
+      "path": "stills/ascii-stills-v7-2026-11-12/29-THE-ATOMIC-FIELD.png",
+      "size": 24980,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7bcefe65dc9a0dd1e1a18afd049b2c7663bc78aa1152671a5623a890aa53ad1f"
+    },
+    {
+      "path": "stills/ascii-stills-v7-2026-11-12/30-THE-WORD-DISSOLVE.png",
+      "size": 30020,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "65081bedf40e82fe8480670f8934f60f5b4580e15bb76f7351cf174f9d558849"
+    },
+    {
+      "path": "stills/ascii-stills-v7-2026-11-12/31-THE-ETHEREAL-VEIL.png",
+      "size": 50567,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b6e857e0c34006fdabb75f470d5bdef3857d950e993910f7e8929cb43b7026d3"
+    },
+    {
+      "path": "stills/ascii-stills-v7-2026-11-12/32-THE-GRANULAR-ORBIT.png",
+      "size": 22440,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "dd2b102bb960b5d432f26d004516b0328b5c808e5798bdcb983a21213b71a5c8"
     }
   ]
 }
