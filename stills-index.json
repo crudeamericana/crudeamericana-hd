@@ -14473,6 +14473,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "b036ef67ab46e73207b21a843eef54907132f1110a8fd4cf3635b972e8974252"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/67-THE-ESCHER-SCALES.png",
+      "size": 429040,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "cab1cdeb5594a07098404388038d0a98e306d0122432939616ab487a5590995b"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/68-THE-PARTICLE-ORBITS.png",
+      "size": 423823,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4372686df91039b9329780edb2cacc3ce79a6a24638a51f77cace83d0aee73d1"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/69-THE-GRAVITY-WELLS.png",
+      "size": 524445,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "862de3c3f1184513b9d2a3b0a1d6b0d0b6ad612b98eeb03406081215b5d5363e"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/70-THE-BAUHAUS-GRID.png",
+      "size": 485543,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "19a92297d1ca7fcce5d0ec75d191ed3f48b25d89969907096128a19d72e9abf9"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/71-THE-SWISS-GRID.png",
+      "size": 512140,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b3f3ecb045e38003b846f6a8842abd8582a4bd691baf4289c6e40c1434c5c49e"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/72-THE-WIREFRAME-TERRAIN.png",
+      "size": 553558,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1be045a7335758d2efd720d7f53ea516e23b7f3ca373aaa9ae4cc058bd8070b5"
     }
   ]
 }
