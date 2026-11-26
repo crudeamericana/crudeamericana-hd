@@ -14347,6 +14347,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "4b1d10a5ab8947e86836873cfe6af9cdf5b5ca4ebc620463468541be0740f66e"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/79-THE-HALFTONE-PHOTO.png",
+      "size": 607007,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "448893856a7e19aa5df102b8fd29b1eec9bc0032b93c70e81da50758e7c5bb9c"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/80-THE-HALFTONE-TORUS.png",
+      "size": 551832,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "9d6815652dcc43fd3262f7bc1d5f4fd28e3f225849a8307f4d2a24d760738121"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/81-THE-HALFTONE-SPIRAL.png",
+      "size": 515215,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "71013eaf74d81e6538056a3e286b5166f0aa7463bdfe54b8bdedc1ad188873c1"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/82-THE-MISREGISTER-STAR.png",
+      "size": 523960,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "29dfbd88bdedfcc288875f7f489d7a26b3f02e99a93f3027ca14d620ab2346d4"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/83-THE-MISREGISTER-RINGS.png",
+      "size": 546314,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "ce150bcbadcaa7839494ef0c0ed65f38c1a21006ddac439ba309adac2384b2ac"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/84-THE-MISREGISTER-WORD.png",
+      "size": 499720,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "2275426aa3ea162d6c42c48d27209d1bf1a622b6ee130fa534a6cce825a11635"
     }
   ]
 }
