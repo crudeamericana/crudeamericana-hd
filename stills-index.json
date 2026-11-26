@@ -14431,6 +14431,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "614a822c47fd77fc2c8a2bde20dcddfb2da595ef58061257af2575bda41610f7"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/73-THE-POINT-CLOUD.png",
+      "size": 478371,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1ffdc8b78bae92ee281ac04d54eb37d2682dabdb647f6e40d006aca705585b3a"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/74-THE-SPLINE-RIBBONS.png",
+      "size": 517898,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "494e1c1ffe8555854cb2ebc1ffebe508876ff14c14c779ebc2b82d5a5e5bf17a"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/75-THE-CHROME-BLOBS.png",
+      "size": 540271,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e1d2cfbd471a84d8c71420f773f522c65b8e80186df8bfd813576b8c157f6c35"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/76-THE-NEON-TUBES.png",
+      "size": 249434,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "1f689f0bdc8f1445cb2b1d286d1e30851fa21c7ab49b25c18d8d93ec41fae363"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/77-THE-GRID-WARP.png",
+      "size": 556400,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fe96a3e101bd7f5131c96a391a3f7385a06572ee9e0720aa8c911c9e2683d3f8"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/78-THE-SLIT-SCAN.png",
+      "size": 450217,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b036ef67ab46e73207b21a843eef54907132f1110a8fd4cf3635b972e8974252"
     }
   ]
 }
