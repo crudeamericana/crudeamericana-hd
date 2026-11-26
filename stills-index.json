@@ -14263,6 +14263,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "b63bcb4f74f316d3d9d9b068fda826967036847528906c0b3471c2dadbde488b"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/100-THE-WAVE-LINES.png",
+      "size": 341970,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "b7bbd9ae8b15ef2588e55e0a87adc95845c7c16bf3e6819f93785f518a3134e8"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/101-THE-WAVE-LINES-BLUE.png",
+      "size": 505757,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "fe12a639e0860c3f606df4c076eaa9281eaae6dbb4ba83b80d93f971a4c2b966"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/102-THE-WAVE-BEATS.png",
+      "size": 490467,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a7920668deaf4efdd8139d783f4dc0844463412376587cc748cfb4261622b39d"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/97-THE-STARBURST.png",
+      "size": 598151,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "21e873f8a541c1a2041cc8277212842d31e4ead5466fe6c1f2fb5899b9366844"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/98-THE-STARBURST-OFFCENTER.png",
+      "size": 652945,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "88797f837d1121bba647a61153df5fd15b253311bd0ed8cf1d1b1ce56758fbd9"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/99-THE-DUAL-STARBURST.png",
+      "size": 768349,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "51f05fa7355298d13115726a941b21a3cb50e332771cbaaacd2c4c456f3c7662"
     }
   ]
 }
