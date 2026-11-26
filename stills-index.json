@@ -14515,6 +14515,48 @@
       "width": 1920,
       "height": 1080,
       "sha256": "1be045a7335758d2efd720d7f53ea516e23b7f3ca373aaa9ae4cc058bd8070b5"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/49-THE-EXTRUSION.png",
+      "size": 515599,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "53cab7d7fdbe4b21e2b8350205ffb8b93a85c519881da96b464d8d2088af0c8d"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/50-THE-RAYMARCH.png",
+      "size": 526928,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "e481d830940a3cc1d62ef5d46b6a67761244f6775c84686ab7541b7e092ce42e"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/51-THE-DELAUNAY.png",
+      "size": 454009,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "4fdbc417ea935088441a406ec2ce8ff50419ea6515f5a2e6564878072a7ac8cc"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/52-THE-REACTION-DIFFUSION.png",
+      "size": 649827,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "d77747a0984e90f12c43996d9a60ae9a01e1c658a8fdad92fd37021421438cc2"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/53-THE-L-SYSTEM.png",
+      "size": 511133,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "0add56a7c277a5726bf23d73c110cec029565c314ef562dc5299e1f1a5ece471"
+    },
+    {
+      "path": "stills/intake34-stills-2026-11-25/54-THE-ANAMORPHIC.png",
+      "size": 435745,
+      "width": 1920,
+      "height": 1080,
+      "sha256": "3fa807a9c077488ff379b2cf7058d4b7d7d7104f59d350bfe7f6986100ebb49e"
     }
   ]
 }
